@@ -1,0 +1,143 @@
+[[Goalign]]
+arch = "aarch64"
+git-tree-sha1 = "de398b7a9e6e5b5bf31a398c27aac0af7a24870d"
+os = "macos"
+
+    [[Goalign.download]]
+    sha256 = "ca0c7713212936a6eb02a7c15dfa974b3b5aeda766d4b4682eb1ff75c7d53c8d"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.aarch64-apple-darwin.tar.gz"
+[[Goalign]]
+arch = "aarch64"
+git-tree-sha1 = "0948fc1d11c3dc4ba4b3b9e281fcb9f41fb97f49"
+libc = "glibc"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "cd91695938e0a9601303fe64da48fc25ab826b6bdddecfc5f91d4f22a9375f47"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.aarch64-linux-gnu.tar.gz"
+[[Goalign]]
+arch = "aarch64"
+git-tree-sha1 = "a62f567726707fabe57024aa592564420e9d5595"
+libc = "musl"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "1f733645476457435c9bc443b76935a76f8caedf165643ff25722d3bcf5e3f2c"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.aarch64-linux-musl.tar.gz"
+[[Goalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "90d881ee08bdbf438136547589fc8c890ae243c6"
+libc = "glibc"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "e0692425238d70355865b33b781ae02cfd176f824d044ca2c0783633e49ec5ae"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.armv6l-linux-gnueabihf.tar.gz"
+[[Goalign]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "005bae35b06a7c0a84e3172f7c2dbf30d4aadf07"
+libc = "musl"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "ad6f7424d6102725cac6b72b4002fd2c32f6bb6c2df5067b6830fcdf940a6c08"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.armv6l-linux-musleabihf.tar.gz"
+[[Goalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9bc65bfda60b8e98a98bd8fb39ab927c72bb9ba1"
+libc = "glibc"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "f11b545cbe3c8a5d96970d855259e358685b05c86fa6927b0ddcbb5d7caa2c05"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.armv7l-linux-gnueabihf.tar.gz"
+[[Goalign]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "518b151dfa0c58abe14d7189373afbcea21d81e5"
+libc = "musl"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "b7fb9c2a04e41332b574c21e09fac9532f52ec6af3bcedddf978218445a170e8"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.armv7l-linux-musleabihf.tar.gz"
+[[Goalign]]
+arch = "i686"
+git-tree-sha1 = "482dca2314724371183a50bede4f3c0f23c5cb10"
+libc = "glibc"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "5effc2a1885a8e58439996570181f2095968e31f3026a9933ae08befb17aa588"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.i686-linux-gnu.tar.gz"
+[[Goalign]]
+arch = "i686"
+git-tree-sha1 = "04a437c6ef91a442ec6a9f35ae9307dca6e0b96f"
+libc = "musl"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "b2873d8cc16ba78248b9e68db926f3ae7a677f898d8a1a562d1ccf9f40c855c9"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.i686-linux-musl.tar.gz"
+[[Goalign]]
+arch = "i686"
+git-tree-sha1 = "1345f3aed054c4742f48a0f32ab1020e642aaab5"
+os = "windows"
+
+    [[Goalign.download]]
+    sha256 = "3f72348b97133b4e529190b851ba167271eeea18aa380d48822361f64be3ee12"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.i686-w64-mingw32.tar.gz"
+[[Goalign]]
+arch = "powerpc64le"
+git-tree-sha1 = "4331d9be93b69f23ff2389a2ebaf01813fad22ea"
+libc = "glibc"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "5483531c3c17a4dd39b6ebc482b75a17e080e1fd44fe06b84d2439f04a973065"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.powerpc64le-linux-gnu.tar.gz"
+[[Goalign]]
+arch = "x86_64"
+git-tree-sha1 = "a35d0b7ef5d3d0bbe78490408fc9aecd27cbf838"
+os = "macos"
+
+    [[Goalign.download]]
+    sha256 = "02b136971b8012865356c18de35c49af818551162130288b3951599f50726bea"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.x86_64-apple-darwin.tar.gz"
+[[Goalign]]
+arch = "x86_64"
+git-tree-sha1 = "9d864caabaea5b80296a3522c5e0c0856930d17a"
+libc = "glibc"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "250fc7a7e8417cac195994952a9929c9c4998e4750f8581b1899dff7c872f55d"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.x86_64-linux-gnu.tar.gz"
+[[Goalign]]
+arch = "x86_64"
+git-tree-sha1 = "df16ec65897eee0f1387327084ffa50fb227204e"
+libc = "musl"
+os = "linux"
+
+    [[Goalign.download]]
+    sha256 = "080ccfa4b2d843f71e1bc166b592b23f6c5b7f6f7574b3fc591c69264f57dc67"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.x86_64-linux-musl.tar.gz"
+[[Goalign]]
+arch = "x86_64"
+git-tree-sha1 = "34ae54616d1e0aabee50438bee5382a41b76d118"
+os = "freebsd"
+
+    [[Goalign.download]]
+    sha256 = "3a24cd94731b012987a70d4164353a6fdeeae171efc8abe15baa81b90f27f93b"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.x86_64-unknown-freebsd.tar.gz"
+[[Goalign]]
+arch = "x86_64"
+git-tree-sha1 = "1cbf30b50d13142eb10baa793992f790dd5343cb"
+os = "windows"
+
+    [[Goalign.download]]
+    sha256 = "034f54de8fa01ca512c5699699dfd0ab2464d3e58f771d13f810b6f6ba33f017"
+    url = "https://github.com/JuliaBinaryWrappers/Goalign_jll.jl/releases/download/Goalign-v0.3.5+0/Goalign.v0.3.5.x86_64-w64-mingw32.tar.gz"
